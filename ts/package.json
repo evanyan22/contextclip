@@ -1,6 +1,6 @@
 {
   "name": "contextclip",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A framework-agnostic budget tracker and tail-preserving compaction engine for agent conversation history.",
   "license": "MIT",
   "type": "module",
