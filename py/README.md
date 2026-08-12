@@ -38,5 +38,5 @@ pytest
 ## Status
 
 Budget tracking, threshold checks, and staged drain-then-summarize
-recovery with tail preservation are real and tested. Not yet published to
-PyPI — `contextclip` is unclaimed there.
+recovery with tail preservation are real and tested. Published as
+[`contextclip`](https://pypi.org/project/contextclip/) on PyPI.

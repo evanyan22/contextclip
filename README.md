@@ -17,7 +17,9 @@ extracts that separable core as a library operating on a generic
 
 > **Status: v1, self-hosted, in progress.** Budget tracking, the soft/hard
 > threshold check, staged drain-then-summarize recovery, and tail
-> preservation all work end-to-end (see `ts/README.md`). Not yet published.
+> preservation all work end-to-end (see `ts/README.md`). Published:
+> [`contextclip` on PyPI](https://pypi.org/project/contextclip/),
+> [`contextclip` on npm](https://www.npmjs.com/package/contextclip).
 
 ---
 

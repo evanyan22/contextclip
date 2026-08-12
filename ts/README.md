@@ -39,6 +39,5 @@ npm run build   # tsc -> dist/
 ## Status
 
 Budget tracking, threshold checks, and staged drain-then-summarize
-recovery with tail preservation are real and tested. Not yet published to
-npm — `contextclip` was clean on every registry checked, so this should
-be publishable under the bare name if/when it ships.
+recovery with tail preservation are real and tested. Published as
+[`contextclip`](https://www.npmjs.com/package/contextclip) on npm.
